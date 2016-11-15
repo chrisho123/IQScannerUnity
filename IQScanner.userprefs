@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/iAd.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main.cs" Line="243" Column="30" />
+      <File FileName="../TestGame/Assets/Scripts/Main.cs" Line="1" Column="1" />
+      <File FileName="../../../03_XcodeProj/GLGame/Assets/Scripts/GoldenLight/NGUI/NGUI_SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/iAd.cs" Line="61" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/obj/Debug/Assembly-CSharp.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/UnityEngine.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/UnityEditor.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/nunit.framework.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/chrisho/Documents/05_Unity/Project/TestGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
